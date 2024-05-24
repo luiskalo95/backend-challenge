@@ -21,7 +21,7 @@ This project is made using as main tecnology NodeJS with strict typing using Typ
 * Typescript
 * Jest
 
-## How to sync the project and execute
+## How to sync the project
 
 1. First, it's needed to clone the project using : ```git clone https://github.com/luiskalo95/backend-challenge.git```
 2. Run command ``npm install`` to install all of the developer dependencies (typescript,jest)
