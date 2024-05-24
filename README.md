@@ -27,7 +27,8 @@ This project is made using as main tecnology NodeJS with strict typing using Typ
 2. Run command ``npm install`` to install all of the developer dependencies (typescript,jest)
 3. Run command ``npm start`` to launch project
 4. Now you can procced adding typing the commands you want ``CREATE DELETE LIST MOVE EXIT``
-   Hint: The program is case sensitive and EXIT is to finish the program execution
+   
+   ``Hint``: The program is case sensitive and EXIT is to finish the program execution
 
 ## Skafolding
 
