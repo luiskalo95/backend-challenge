@@ -1,5 +1,4 @@
-import { DbFolder } from "../domain";
-import { CreateUseCase } from "../domain/use-cases/create-usecase.domain";
+import { DbFolder, CreateUseCase } from "../domain";
 
 export class CreateFolderUseCase implements CreateUseCase {
   public db: DbFolder;
