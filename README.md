@@ -23,7 +23,7 @@ This project is made using as main tecnology NodeJS with strict typing using Typ
 
 ## How to sync the project and execute
 
-1. First, it's needed to clone the project using : ```git clone ...```
+1. First, it's needed to clone the project using : ```git clone https://github.com/luiskalo95/backend-challenge.git```
 2. Run command ``npm install`` to install all of the developer dependencies (typescript,jest)
 3. Run command ``npm start`` to launch project
 4. Now you can procced adding typing the commands you want ``CREATE DELETE LIST MOVE EXIT``
