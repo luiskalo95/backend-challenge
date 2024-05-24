@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project is made using as main tecnology NodeJS with strict typing using Typescript where it's going to read some some commands typed in the shell and it's going to make some actions either ``CREATE,DELETE,MOVE,LIST (It's case sensitive)`` a tree directory that is stored in memory. Also this one is using Clean Architecture with ``Hexagonal Architecture`` as main skafolding to handle all of the operations involved to keep this one high scalable and mainteinable; besides that most the files are already tested using jest with a high coverage ``93.62%``
+This project is made using as main tecnology NodeJS with strict typing using Typescript where it's going to read some commands typed in the shell and it's going to make some actions either ``CREATE,DELETE,MOVE,LIST (It's case sensitive)`` a tree directory that is stored in memory. Also this one is using Clean Architecture with ``Hexagonal Architecture`` as main skafolding to handle all of the operations involved to keep this one high scalable and mainteinable; besides that, most of the files are already tested using jest with a high coverage ``93.62%``
 
 ![](.README_images/overview.gif)
 
